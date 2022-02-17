@@ -1,1 +1,0 @@
-# aws-serverless-web-app
